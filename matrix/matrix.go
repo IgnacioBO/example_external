@@ -2,6 +2,13 @@ package matrix
 
 //LUEGO DE TENR LISTO MI PROYECTO genero el go mod:
 //go mod init
+
+//Luuego subirlo al repo con las isntrucciones de github
+//Asi quedo github.com/IgnacioBO/example_external
+
+//Luego crearemos un nuevo TAG en github (En new release)
+//Ahora vamos al otro proyecto (go_introduction)
+
 import (
 	"fmt"
 	"math"
