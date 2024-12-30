@@ -2,6 +2,6 @@ package sumar
 
 import "fmt"
 
-func sumarDosInt(a, b int) {
+func SumarDosInt(a, b int) {
 	fmt.Println(a + b)
 }
